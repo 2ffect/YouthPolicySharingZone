@@ -14,3 +14,4 @@ urlpatterns = [
     # 스크랩되어있는지 확인
     path('article_detail/<int:article_id>/is_scrapped/', views.is_article_scrapped),
 ]
+
