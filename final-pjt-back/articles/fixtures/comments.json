@@ -1,0 +1,182 @@
+[
+{
+  "model": "articles.comment",
+  "pk": 1,
+  "fields": {
+    "article": 1,
+    "user": 5,
+    "content": "캐가요 ~ ♡",
+    "created_at": "2025-05-26T06:55:07.178Z"
+  }
+},
+{
+  "model": "articles.comment",
+  "pk": 2,
+  "fields": {
+    "article": 2,
+    "user": 5,
+    "content": "캐가요 ~ ♡",
+    "created_at": "2025-05-26T06:55:12.475Z"
+  }
+},
+{
+  "model": "articles.comment",
+  "pk": 3,
+  "fields": {
+    "article": 3,
+    "user": 5,
+    "content": "캐가요 ~ ♡",
+    "created_at": "2025-05-26T06:55:15.985Z"
+  }
+},
+{
+  "model": "articles.comment",
+  "pk": 4,
+  "fields": {
+    "article": 4,
+    "user": 5,
+    "content": "캐가요 ~ ♡",
+    "created_at": "2025-05-26T06:55:20.874Z"
+  }
+},
+{
+  "model": "articles.comment",
+  "pk": 6,
+  "fields": {
+    "article": 6,
+    "user": 5,
+    "content": "캐가요 ~ ♡",
+    "created_at": "2025-05-26T06:55:31.743Z"
+  }
+},
+{
+  "model": "articles.comment",
+  "pk": 7,
+  "fields": {
+    "article": 7,
+    "user": 5,
+    "content": "캐가요 ~ ♡",
+    "created_at": "2025-05-26T06:55:39.458Z"
+  }
+},
+{
+  "model": "articles.comment",
+  "pk": 8,
+  "fields": {
+    "article": 8,
+    "user": 5,
+    "content": "캐가요 ~ ♡",
+    "created_at": "2025-05-26T06:55:48.433Z"
+  }
+},
+{
+  "model": "articles.comment",
+  "pk": 9,
+  "fields": {
+    "article": 9,
+    "user": 5,
+    "content": "캐가요 ~ ♡",
+    "created_at": "2025-05-26T06:55:53.735Z"
+  }
+},
+{
+  "model": "articles.comment",
+  "pk": 10,
+  "fields": {
+    "article": 10,
+    "user": 5,
+    "content": "캐가요 ~ ♡",
+    "created_at": "2025-05-26T06:55:57.506Z"
+  }
+},
+{
+  "model": "articles.comment",
+  "pk": 11,
+  "fields": {
+    "article": 1,
+    "user": 2,
+    "content": "ㅋㅋㅋ 닉값하시네",
+    "created_at": "2025-05-26T06:58:11.782Z"
+  }
+},
+{
+  "model": "articles.comment",
+  "pk": 12,
+  "fields": {
+    "article": 5,
+    "user": 2,
+    "content": "고맙습니다.",
+    "created_at": "2025-05-26T06:58:18.347Z"
+  }
+},
+{
+  "model": "articles.comment",
+  "pk": 13,
+  "fields": {
+    "article": 1,
+    "user": 8,
+    "content": "저도 신청해야 겠네요~",
+    "created_at": "2025-05-26T06:58:35.703Z"
+  }
+},
+{
+  "model": "articles.comment",
+  "pk": 14,
+  "fields": {
+    "article": 6,
+    "user": 8,
+    "content": "저도 신청할게요 !",
+    "created_at": "2025-05-26T06:58:45.122Z"
+  }
+},
+{
+  "model": "articles.comment",
+  "pk": 15,
+  "fields": {
+    "article": 3,
+    "user": 4,
+    "content": "고맙습니다.",
+    "created_at": "2025-05-26T06:58:59.036Z"
+  }
+},
+{
+  "model": "articles.comment",
+  "pk": 16,
+  "fields": {
+    "article": 1,
+    "user": 4,
+    "content": "고맙습니다.",
+    "created_at": "2025-05-26T06:59:02.246Z"
+  }
+},
+{
+  "model": "articles.comment",
+  "pk": 17,
+  "fields": {
+    "article": 8,
+    "user": 7,
+    "content": "캐카쿄~",
+    "created_at": "2025-05-26T06:59:38.655Z"
+  }
+},
+{
+  "model": "articles.comment",
+  "pk": 18,
+  "fields": {
+    "article": 2,
+    "user": 7,
+    "content": "감사합니다.",
+    "created_at": "2025-05-26T06:59:47.365Z"
+  }
+},
+{
+  "model": "articles.comment",
+  "pk": 19,
+  "fields": {
+    "article": 1,
+    "user": 7,
+    "content": "고마워요 저도 신청할게요 !",
+    "created_at": "2025-05-26T06:59:55.510Z"
+  }
+}
+]
